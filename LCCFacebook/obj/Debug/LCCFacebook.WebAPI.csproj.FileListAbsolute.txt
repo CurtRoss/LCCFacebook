@@ -1,0 +1,2 @@
+C:\Users\curtr\Desktop\LCCFacebook\LCCFacebook\LCCFacebook\obj\Debug\LCCFacebook.WebAPI.csprojAssemblyReference.cache
+C:\Users\curtr\Desktop\LCCFacebook\LCCFacebook\LCCFacebook\obj\Debug\LCCFacebook.WebAPI.csproj.CoreCompileInputs.cache

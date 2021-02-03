@@ -1,0 +1,15 @@
+C:\Users\curtr\Desktop\LCCFacebook\LCCFacebook\LCCFacebook.Models\bin\Debug\LCCFacebook.Models.dll.config
+C:\Users\curtr\Desktop\LCCFacebook\LCCFacebook\LCCFacebook.Models\bin\Debug\LCCFacebook.Models.dll
+C:\Users\curtr\Desktop\LCCFacebook\LCCFacebook\LCCFacebook.Models\bin\Debug\LCCFacebook.Models.pdb
+C:\Users\curtr\Desktop\LCCFacebook\LCCFacebook\LCCFacebook.Models\bin\Debug\EntityFramework.dll
+C:\Users\curtr\Desktop\LCCFacebook\LCCFacebook\LCCFacebook.Models\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\curtr\Desktop\LCCFacebook\LCCFacebook\LCCFacebook.Models\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\curtr\Desktop\LCCFacebook\LCCFacebook\LCCFacebook.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\curtr\Desktop\LCCFacebook\LCCFacebook\LCCFacebook.Models\bin\Debug\EntityFramework.xml
+C:\Users\curtr\Desktop\LCCFacebook\LCCFacebook\LCCFacebook.Models\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\curtr\Desktop\LCCFacebook\LCCFacebook\LCCFacebook.Models\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\curtr\Desktop\LCCFacebook\LCCFacebook\LCCFacebook.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\curtr\Desktop\LCCFacebook\LCCFacebook\LCCFacebook.Models\obj\Debug\LCCFacebook.Models.csproj.CoreCompileInputs.cache
+C:\Users\curtr\Desktop\LCCFacebook\LCCFacebook\LCCFacebook.Models\obj\Debug\LCCFacebook.Models.csproj.CopyComplete
+C:\Users\curtr\Desktop\LCCFacebook\LCCFacebook\LCCFacebook.Models\obj\Debug\LCCFacebook.Models.dll
+C:\Users\curtr\Desktop\LCCFacebook\LCCFacebook\LCCFacebook.Models\obj\Debug\LCCFacebook.Models.pdb
