@@ -32,3 +32,4 @@ C:\Users\curtr\Desktop\LCCFacebook\LCCFacebook\LCCFacebook.Data\obj\Debug\LCCFac
 C:\Users\curtr\Desktop\LCCFacebook\LCCFacebook\LCCFacebook.Data\obj\Debug\LCCFacebook.Data.csproj.CopyComplete
 C:\Users\curtr\Desktop\LCCFacebook\LCCFacebook\LCCFacebook.Data\obj\Debug\LCCFacebook.Data.dll
 C:\Users\curtr\Desktop\LCCFacebook\LCCFacebook\LCCFacebook.Data\obj\Debug\LCCFacebook.Data.pdb
+C:\Users\curtr\Desktop\LCCFacebook\LCCFacebook\LCCFacebook.Data\obj\Debug\LCCFacebook.Data.csprojAssemblyReference.cache

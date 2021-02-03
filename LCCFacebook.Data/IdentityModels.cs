@@ -34,9 +34,9 @@ namespace LCCFacebook.Data
             return new ApplicationDbContext();
         }
 
-        public DbSet<Post> Posts { get; set; }
-        public DbSet<Reply> Replies { get; set; }
-        public DbSet<Comment> Comments { get; set; }
+        //public DbSet<Post> Posts { get; set; }
+        //public DbSet<Reply> Replies { get; set; }
+        //public DbSet<Comment> Comments { get; set; }
 
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
         {
