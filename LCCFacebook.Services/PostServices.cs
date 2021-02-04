@@ -54,6 +54,7 @@ namespace LCCFacebook.Services
                                     Content = e.Content
                                 }
                     );
+                return query.ToArray();
             }
         }
     }
