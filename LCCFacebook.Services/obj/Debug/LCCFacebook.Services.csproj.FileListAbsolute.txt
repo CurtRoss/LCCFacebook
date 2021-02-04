@@ -13,3 +13,19 @@ C:\Users\curtr\Desktop\LCCFacebook\LCCFacebook\LCCFacebook.Services\obj\Debug\LC
 C:\Users\curtr\Desktop\LCCFacebook\LCCFacebook\LCCFacebook.Services\obj\Debug\LCCFacebook.Services.csproj.CopyComplete
 C:\Users\curtr\Desktop\LCCFacebook\LCCFacebook\LCCFacebook.Services\obj\Debug\LCCFacebook.Services.dll
 C:\Users\curtr\Desktop\LCCFacebook\LCCFacebook\LCCFacebook.Services\obj\Debug\LCCFacebook.Services.pdb
+C:\Users\Lindsey Robertson\Documents\Eleven Fifty\Eleven Fifty Projects\BlueBadge\LCCFacebook\LCCFacebook.Services\bin\Debug\LCCFacebook.Services.dll.config
+C:\Users\Lindsey Robertson\Documents\Eleven Fifty\Eleven Fifty Projects\BlueBadge\LCCFacebook\LCCFacebook.Services\bin\Debug\LCCFacebook.Services.dll
+C:\Users\Lindsey Robertson\Documents\Eleven Fifty\Eleven Fifty Projects\BlueBadge\LCCFacebook\LCCFacebook.Services\bin\Debug\LCCFacebook.Services.pdb
+C:\Users\Lindsey Robertson\Documents\Eleven Fifty\Eleven Fifty Projects\BlueBadge\LCCFacebook\LCCFacebook.Services\bin\Debug\EntityFramework.dll
+C:\Users\Lindsey Robertson\Documents\Eleven Fifty\Eleven Fifty Projects\BlueBadge\LCCFacebook\LCCFacebook.Services\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Lindsey Robertson\Documents\Eleven Fifty\Eleven Fifty Projects\BlueBadge\LCCFacebook\LCCFacebook.Services\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Lindsey Robertson\Documents\Eleven Fifty\Eleven Fifty Projects\BlueBadge\LCCFacebook\LCCFacebook.Services\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Lindsey Robertson\Documents\Eleven Fifty\Eleven Fifty Projects\BlueBadge\LCCFacebook\LCCFacebook.Services\bin\Debug\EntityFramework.xml
+C:\Users\Lindsey Robertson\Documents\Eleven Fifty\Eleven Fifty Projects\BlueBadge\LCCFacebook\LCCFacebook.Services\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Lindsey Robertson\Documents\Eleven Fifty\Eleven Fifty Projects\BlueBadge\LCCFacebook\LCCFacebook.Services\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Lindsey Robertson\Documents\Eleven Fifty\Eleven Fifty Projects\BlueBadge\LCCFacebook\LCCFacebook.Services\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Lindsey Robertson\Documents\Eleven Fifty\Eleven Fifty Projects\BlueBadge\LCCFacebook\LCCFacebook.Services\obj\Debug\LCCFacebook.Services.csprojAssemblyReference.cache
+C:\Users\Lindsey Robertson\Documents\Eleven Fifty\Eleven Fifty Projects\BlueBadge\LCCFacebook\LCCFacebook.Services\obj\Debug\LCCFacebook.Services.csproj.CoreCompileInputs.cache
+C:\Users\Lindsey Robertson\Documents\Eleven Fifty\Eleven Fifty Projects\BlueBadge\LCCFacebook\LCCFacebook.Services\obj\Debug\LCCFacebook.Services.csproj.CopyComplete
+C:\Users\Lindsey Robertson\Documents\Eleven Fifty\Eleven Fifty Projects\BlueBadge\LCCFacebook\LCCFacebook.Services\obj\Debug\LCCFacebook.Services.dll
+C:\Users\Lindsey Robertson\Documents\Eleven Fifty\Eleven Fifty Projects\BlueBadge\LCCFacebook\LCCFacebook.Services\obj\Debug\LCCFacebook.Services.pdb
