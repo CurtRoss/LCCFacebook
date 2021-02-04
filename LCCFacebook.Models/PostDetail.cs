@@ -1,15 +1,16 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
 namespace LCCFacebook.Models
 {
-    public class PostCreate
+    public class PostDetail
     {
-        [Required, MinLength(1, ErrorMessage = "Please enter at least one character.")]
+        public int PostId { get; set; }
         public string Content { get; set; }
+        public DateTimeOffset CreatedUtc { get; set; }
+        public DateTimeOffset? ModifiedUtc { get; set; }
     }
 }
